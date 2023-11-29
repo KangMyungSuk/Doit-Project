@@ -1,4 +1,24 @@
-# Doit-Project
-Do it! 프론트엔드 UI 개발 with Vue.js
+# doitproject
 
-교재에서 6강 실습 부터 순차적으로 깃으로 정리함
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
